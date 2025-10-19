@@ -1,4 +1,3 @@
-
 ## Hi there 👋 It's me Sudharsan
 
 🎓 Computer Science and Business System Engineering Student  
@@ -19,10 +18,8 @@
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sudharsan-336&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### 📊 GitHub and Coding Stats
+### 📊 GitHub Stats
 ![Sudharsan GitHub status](https://github-readme-stats.vercel.app/api?username=sudharsan-336&theme=dark&show_icons=true&hide=issues,contribs)
-
-![LeetCode Status](https://leetcard.jacoblin.cool/sudharsan336?theme=dark&font=Mallanna&ext=contest)
 
 [![Sudharsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharsan-336&bg_color=000000&color=ffffff&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/sudharsan-336)
 
