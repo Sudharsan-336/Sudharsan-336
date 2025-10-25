@@ -7,6 +7,10 @@
 <br > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudharsan336)<br />[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=sudharsan.ramachandran336@gmail.com)<br>[<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/classy_sudhan)<br>
 
 
+### 📄 My Resume
+[![View Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Sudharsan-336/Sudharsan-336/blob/main/Sudharsan%20R%20-%20Resume.pdf)[![Download Resume](https://img.shields.io/badge/Download_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://raw.githubusercontent.com/Sudharsan-336/Sudharsan-336/main/Sudharsan%20R%20-%20Resume.pdf)
+
+
 ### 🖥️ Languages and Technologies
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
@@ -23,9 +27,6 @@
 
 [![Sudharsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharsan-336&bg_color=000000&color=ffffff&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/sudharsan-336)
 
-### Resume
-
-[Download My Resume](https://github.com/Sudharsan-336/Sudharsan-336/blob/main/Sudharsan%20R%20-%20Resume.pdf)
 
 ### 🎮 Fun Facts / Interests
 - 🎮 Online Gaming  
