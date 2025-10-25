@@ -23,9 +23,16 @@
 
 [![Sudharsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharsan-336&bg_color=000000&color=ffffff&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/sudharsan-336)
 
+### Resume
+
+[Download My Resume](https://github.com/Sudharsan-336/Sudharsan-336/blob/main/Sudharsan%20R%20-%20Resume.pdf)
+
 ### 🎮 Fun Facts / Interests
 - 🎮 Online Gaming  
 - 🏃‍♂️ Playing Outdoors   
 - 🎵 Listening to Music 
 - 🌐 Exploring new technologies
+
+
+
 
