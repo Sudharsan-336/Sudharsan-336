@@ -27,6 +27,17 @@
 
 [![Sudharsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharsan-336&bg_color=000000&color=ffffff&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/sudharsan-336)
 
+<!-- wave GIF start -->
+<div align="center">
+    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
+<!-- wave GIF end -->
+
+<!-- build with love svg start -->
+<div align="center">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+SUDHARSAN" alt="build with love svg" />
+</div>
+<!-- build with love svg end -->
 
 
 
