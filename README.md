@@ -47,11 +47,11 @@
 
 <!-- GitHub Stats start -->
 ### 📊 GitHub Stats
-![Sudharsan GitHub status](https://github-readme-stats.vercel.app/api?username=sudharsan-336&theme=dark&show_icons=true&hide=issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudharsan-336&show_icons=true&theme=dark)
 <!-- GitHub Stats end -->
 
 <!-- Github Activity Graph start -->
-[![Sudharsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharsan-336&bg_color=000000&color=ffffff&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/sudharsan-336)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharsan-336&bg_color=000000&color=ffffff&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/sudharsan-336)
 <!-- Github Activity Graph end -->
 
 <!-- Wave GIF start -->
