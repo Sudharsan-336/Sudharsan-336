@@ -1,6 +1,6 @@
 # Hi there 👋 It's me Sudharsan
 
-🎓 **Computer Science and Business Systems Engineering Student**
+###  🎓 Computer Science and Business Systems Engineering Student
 
 <!-- Right-side Animated GIF start -->
 <img align="right" width="370" height="270" src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" alt="Animated coding illustration">
