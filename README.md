@@ -1,4 +1,4 @@
-### Hi there 👋 It's me Sudharsan
+# Hi there 👋 It's me Sudharsan
 
 🎓 **Computer Science and Business Systems Engineering Student**
 
