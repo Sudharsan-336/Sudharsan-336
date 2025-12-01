@@ -6,8 +6,9 @@
 <img align="right" width="370" height="270" src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" alt="Animated coding illustration">
 <!-- Right-side Animated GIF end -->
 
+- 🌐 Here's my [portfolio](https://sudharsan-portfolio-mu.vercel.app/)  
 - 🎯 Currently Learning **DSA in Java**  
-- 📫 How to reach me:
+- ✉️ How to reach me:
 
 <!-- Contact Section start -->
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudharsan336)  
