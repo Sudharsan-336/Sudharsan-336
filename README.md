@@ -38,6 +38,7 @@
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="git"/>
   <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="eclipse"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
+  <img height="50" src="https://img.icons8.com/color/480/null/notion.png" alt="notion"/> 
 </p>
 <!-- Tools and IDEs end -->
 
