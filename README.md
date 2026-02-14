@@ -18,7 +18,8 @@
 
 <!-- Resume Section start -->
 ### 📄 My Resume
-[![View Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://sudharsan-336.github.io/Sudharsan-336/Sudharsan%20R%20-%20Resume.pdf)[![Download Resume](https://img.shields.io/badge/Download_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://raw.githubusercontent.com/Sudharsan-336/Sudharsan-336/main/Sudharsan%20R%20-%20Resume.pdf)
+[![View Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://sudharsan-336.github.io/Sudharsan-336/Sudharsan%20R%20-%20Resume%202.pdf)[![Download Resume](https://img.shields.io/badge/Download_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://raw.githubusercontent.com/Sudharsan-336/Sudharsan-336/main/Sudharsan%20R%20-%20Resume%202.pdf)
+
 <!-- Resume Section end -->
 
 <!-- Languages and Technologies start -->
