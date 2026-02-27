@@ -18,7 +18,7 @@
 
 <!-- Resume Section start -->
 ### 📄 My Resume
-[![View Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Sudharsan-336/Sudharsan-336/blob/main/Sudharsan%20R-resume%202.pdf)[![Download Resume](https://img.shields.io/badge/Download_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://raw.githubusercontent.com/Sudharsan-336/Sudharsan-336/main/Sudharsan%20R-resume%202.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://raw.githubusercontent.com/Sudharsan-336/Sudharsan-336/main/Sudharsan%20R-resume%202.pdf)
 
 <!-- Resume Section end -->
 
@@ -39,7 +39,6 @@
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="git"/>
   <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="eclipse"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
-  <img height="50" src="https://img.icons8.com/color/480/null/notion.png" alt="notion"/> 
 </p>
 <!-- Tools and IDEs end -->
 
@@ -68,7 +67,3 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+SUDHARSAN" alt="build with love svg" />
 </div>
 <!-- Build with love svg end -->
-
-
-
-
