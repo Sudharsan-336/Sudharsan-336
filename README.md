@@ -3,7 +3,8 @@
 ###  🎓 Computer Science and Business Systems Engineering Student
 
 <!-- Right-side Animated GIF start -->
-<img align="right" width="370" height="270" src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" alt="Animated coding illustration">
+<img align="right" width="380"
+src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif">
 <!-- Right-side Animated GIF end -->
 
 🌐 Here's my [portfolio](https://sudharsan-portfolio-mu.vercel.app/)  
