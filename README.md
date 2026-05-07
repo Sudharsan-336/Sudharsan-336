@@ -7,7 +7,6 @@
 src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif">
 <!-- Right-side Animated GIF end -->
 
-🌐 Here's my [portfolio](https://sudharsan-portfolio-mu.vercel.app/)  
 🎯 Currently Learning **DSA in Java**  
 ✉️ How to reach me:
 
