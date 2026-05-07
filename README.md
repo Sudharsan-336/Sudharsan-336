@@ -19,7 +19,7 @@ src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object
 
 <!-- Resume Section start -->
 ### 📄 Resume
-[![Download Resume](https://img.shields.io/badge/Download_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://raw.githubusercontent.com/Sudharsan-336/Sudharsan-336/main/Sudharsan%20R-resume%202.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://raw.githubusercontent.com/sudharsan-336/sudharsan-336/main/Sudharsan-Resume.pdf)
 <!-- Resume Section end -->
 
 <!-- Languages and Technologies start -->
